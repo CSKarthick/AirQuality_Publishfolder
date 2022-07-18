@@ -1,0 +1,12 @@
+{
+  "id": "com.yourdomain.airquality",
+  "version": "1.0.4",
+  "vendor": "My Company",
+  "type": "web",
+  "main": "firstpage.html",
+  "title": "Air Quality",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "supportPortraitMode" : true,
+  "disableBackHistoryAPI" : true
+}
